@@ -8,7 +8,7 @@
 
   <name>newapp</name>
   <url>http://maven.apache.org</url>
-  <description>this is a sample maven project created to demonstrate branching practice</description>
+  <description>this is a sample maven project created to demonstrate branching practice.</description>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
