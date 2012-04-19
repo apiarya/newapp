@@ -31,4 +31,4 @@ mvn release:prepare release:perform -s ~/.m2/settings-local-nexus.xml
 ******************* release:deep-branching ************************************************
 git checkout newapp-3.X
 mvn release:branch -DbranchName=newapp-3.6.X
-// enter  at prompt:  What is the new working copy version for "newapp"? : : 3.6-SNAPSHOT
+// enter  at prompt:  What is the new working copy version for "newapp"? : : 3.7-SNAPSHOT
