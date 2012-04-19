@@ -22,3 +22,7 @@ mvn release:prepare release:perform -s ~/.m2/settings-local-nexus.xml
 git checkout master
 mvn deploy -s ~/.m2/settings-local-nexus.xml
 mvn release:prepare release:perform -s ~/.m2/settings-local-nexus.xml
+
+git merge newapp-1.X
+//resolve conflict in pom.xml version
+mvn release:prepare release:perform -s ~/.m2/settings-local-nexus.xml
