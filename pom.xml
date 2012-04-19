@@ -3,7 +3,7 @@
 
   <groupId>org.open</groupId>
   <artifactId>newapp</artifactId>
-  <version>3.6.1-SNAPSHOT</version>
+  <version>3.6.1</version>
   <packaging>jar</packaging>
 
   <name>newapp</name>
