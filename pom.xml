@@ -45,7 +45,7 @@
           <artifactId>maven-release-plugin</artifactId>
           <version>2.2.2</version>
           <configuration>
-            <scmCommentPrefix>RELEASE</scmCommentPrefix>
+            <scmCommentPrefix>RELEASE: </scmCommentPrefix>
           </configuration>
         </plugin>
         <plugin>
