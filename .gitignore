@@ -1,2 +1,6 @@
 target/
+.idea/
 newapp.iws
+newapp.iml
+newapp.ipr
+
